@@ -45,6 +45,6 @@ def lookup(name: str, role: str) -> str:
     return result["output"]
 
 
-if __name__ == '__main__':
-    linkedin_url = lookup("Martin Oywa", "Machine Learning Engineer")
-    print(linkedin_url)
+# if __name__ == '__main__':
+#     linkedin_url = lookup("Martin Oywa", "Machine Learning Engineer")
+#     print(linkedin_url)
