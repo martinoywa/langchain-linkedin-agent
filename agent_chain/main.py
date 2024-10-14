@@ -30,5 +30,5 @@ def main(name: str, role: str) -> str:
 
 
 if __name__ == '__main__':
-    result = main("Martin Oywa", "Machine Learning Engineer")
+    result = main("Martin Oywa", "Machine Learning Engineer Safaricom")
     print(result)
